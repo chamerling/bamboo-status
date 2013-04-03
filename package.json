@@ -1,0 +1,23 @@
+{
+  "name": "bamboo-status",
+  "version": "0.0.1",
+  "description": "Get your Bamboo build status as image (deeply inspired by travis-ci status images...)",
+  "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
+  "homepage": "http://github.com/chamerling/bamboo-status",
+  "keywords": [
+    "bamboo", "status", "atlassian"
+  ],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://mths.be/mit"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/chamerling/bamboo-status.git"
+  },
+  
+  "dependencies": {
+    "express": "latest",
+    "request": "latest"
+  }
+}
