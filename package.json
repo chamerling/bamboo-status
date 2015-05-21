@@ -17,7 +17,7 @@
   },
   
   "dependencies": {
-    "express": "latest",
+    "express": "~3",
     "request": "latest"
   }
 }
