@@ -5,18 +5,22 @@
   "author": "Christophe Hamerling <christophe.hamerling@gmail.com>",
   "homepage": "http://github.com/chamerling/bamboo-status",
   "keywords": [
-    "bamboo", "status", "atlassian"
+    "bamboo",
+    "status",
+    "atlassian"
   ],
-  "licenses": [{
-    "type": "MIT",
-    "url": "http://mths.be/mit"
-  }],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://mths.be/mit"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "http://github.com/chamerling/bamboo-status.git"
   },
-  
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "latest",
     "request": "latest"
   }
